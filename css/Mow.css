@@ -1,0 +1,29 @@
+.class11{
+    font-size: 40px ;
+    text-align: center;
+    color: blue;
+}
+.class12{
+    padding-left: 50px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.Buton1{
+    font-size: 20px;
+    text-align: center;
+    color: yellow;
+    background-color: brown;
+    background-size: cover;
+}
+.Buton2{
+    font-weight: bold;
+    text-align: center;
+    background-size: cover;
+    font-size: 40px;
+    padding: 30px;
+    padding-right: 70px;
+    color: rgb(217, 255, 3);
+    background-color: rgb(162, 27, 224);
+    border-radius: 30px;
+}
